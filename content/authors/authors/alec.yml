@@ -1,5 +1,6 @@
 name: Cool Hand Luke
-bio: |This is my stuff.
+bio: |
+  This is my stuff.
 avatar: ./avatars/dennis-brotzky.jpg
 social:
   - url: https://unsplash.com
