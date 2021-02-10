@@ -1,0 +1,10 @@
+name: Cool Hand Luke
+bio: |This is my stuff.
+avatar: ./avatars/dennis-brotzky.jpg
+social:
+  - url: https://unsplash.com
+  - url: https://stackoverflow.com
+  - url: https://github.com
+  - url: https://github.com
+  - url: https://github.com
+featured: true
